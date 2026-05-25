@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "year": "2021",
+    "year": "2022",
     "title": "10th Board Distinction",
-    "description": "Scored 92% in CBSE Class 10 Board Examinations, securing distinction and ranking among top students in school.",
+    "description": "Scored 85% in CBSE Class 10 under CBSE curriculam.",
     "badge": "🏅",
     "category": "academic"
   },
   {
     "id": 2,
-    "year": "2023",
+    "year": "2024",
     "title": "12th Board — PCM",
     "description": "Completed CBSE Class 12 with Physics, Chemistry, and Mathematics stream. Strong foundation in analytical and logical thinking.",
     "badge": "📚",
@@ -17,15 +17,15 @@
   },
   {
     "id": 3,
-    "year": "2023",
+    "year": "2025",
     "title": "Joined B.Tech CSE",
-    "description": "Secured admission to Bachelor of Technology in Computer Science & Engineering, beginning the journey into the world of technology.",
+    "description": "Secured admission to Bachelor of Technology in Computer Science & Engineering in AI &ML, beginning the journey into the world of technology.",
     "badge": "🎓",
     "category": "academic"
   },
   {
     "id": 4,
-    "year": "2023",
+    "year": "2026",
     "title": "Mastered C Programming",
     "description": "Completed a rigorous C programming course covering pointers, memory management, file I/O, and data structures from scratch.",
     "badge": "💻",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "year": "2024",
+    "year": "2026",
     "title": "First Web Project Live",
     "description": "Launched first fully responsive web project using HTML, CSS, and JavaScript — a personal task manager with localStorage.",
     "badge": "🌐",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "year": "2024",
+    "year": "2026",
     "title": "OS Mini Shell Project",
     "description": "Successfully implemented a Unix-like mini shell in C as part of OS course — received appreciation from faculty for depth of implementation.",
     "badge": "🐧",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "year": "2024",
+    "year": "2026",
     "title": "DSA Problem Streak",
     "description": "Solved 100+ DSA problems on platforms like LeetCode and GeeksForGeeks. Consistent problem-solving habit built over 3 months.",
     "badge": "⚡",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "year": "2025",
+    "year": "2026",
     "title": "Portfolio Website Launched",
     "description": "Designed and developed a production-ready personal portfolio from scratch with advanced animations, JSON-driven data, and full responsiveness.",
     "badge": "🚀",
