@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Task Manager",
+    "description": "A full-featured task management web app with drag-and-drop, priority tagging, and local storage persistence. Supports dark/light mode and responsive design.",
+    "longDescription": "Built entirely in Vanilla JS, this task manager lets users create, edit, delete, and prioritize tasks with a beautiful glassmorphism UI. Features include drag-and-drop reordering, category filters, deadline reminders, and theme switching. All data is stored in localStorage for persistence without a backend.",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "LocalStorage"],
+    "category": "web",
+    "github": "https://github.com/navdeepsharma",
+    "live": "#",
+    "status": "completed",
+    "statusLabel": "Completed",
+    "year": "2024"
+  },
+  {
+    "id": 2,
+    "title": "DSA Visualizer",
+    "description": "Interactive visualizer for sorting algorithms and data structures. Animates Bubble Sort, Merge Sort, Quick Sort, and Binary Search in real-time.",
+    "longDescription": "This educational tool helps CS students visualize how sorting algorithms work step-by-step. Built with Canvas API and JavaScript, it renders animated bars for each algorithm with speed controls, pause/resume functionality, and color-coded comparisons and swaps.",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "Canvas API"],
+    "category": "dsa",
+    "github": "https://github.com/navdeepsharma",
+    "live": "#",
+    "status": "completed",
+    "statusLabel": "Completed",
+    "year": "2024"
+  },
+  {
+    "id": 3,
+    "title": "Mini Shell (OS Project)",
+    "description": "A custom Unix-like shell implemented in C supporting piping, redirection, background processes, and built-in commands like cd, pwd, exit.",
+    "longDescription": "Developed as part of an Operating Systems course project, this shell supports command parsing, process forking, exec calls, I/O redirection with < and >, piping with |, background execution with &, and built-in commands. Demonstrates deep understanding of POSIX system calls and process management.",
+    "technologies": ["C", "POSIX API", "Linux", "Makefile"],
+    "category": "os",
+    "github": "https://github.com/navdeepsharma",
+    "live": "#",
+    "status": "completed",
+    "statusLabel": "Completed",
+    "year": "2024"
+  },
+  {
+    "id": 4,
+    "title": "Portfolio Website",
+    "description": "This very portfolio! A modern glassmorphism personal portfolio with particle effects, dark mode, JSON-driven content, animations, and full responsiveness.",
+    "longDescription": "Designed and built from scratch using pure HTML, CSS, and JavaScript. Features include a floating particle background, custom cursor, typing animation, scroll reveal animations, dynamic JSON loading for projects and achievements, working contact form with validation, light/dark mode with localStorage, and a fully responsive layout.",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "JSON"],
+    "category": "web",
+    "github": "https://github.com/navdeepsharma",
+    "live": "#",
+    "status": "completed",
+    "statusLabel": "Completed",
+    "year": "2025"
+  },
+  {
+    "id": 5,
+    "title": "Student Result Management System",
+    "description": "A DBMS mini-project for managing student records, grades, and result generation using MySQL and a C-based CLI interface.",
+    "longDescription": "This project uses MySQL as the backend database and a C program as the CLI frontend. Features include student registration, course enrollment, marks entry, result computation (SGPA/CGPA), and report generation. Demonstrates practical DBMS concepts like normalization, joins, and stored procedures.",
+    "technologies": ["C", "MySQL", "DBMS", "SQL"],
+    "category": "mini",
+    "github": "https://github.com/navdeepsharma",
+    "live": "#",
+    "status": "in-progress",
+    "statusLabel": "In Progress",
+    "year": "2025"
+  },
+  {
+    "id": 6,
+    "title": "Binary Search Tree Operations",
+    "description": "Implementation of BST with insert, delete, search, traversals (inorder, preorder, postorder), height calculation, and level-order traversal in C++.",
+    "longDescription": "A comprehensive C++ implementation of Binary Search Tree covering all fundamental operations. Includes recursive and iterative approaches, tree visualization in terminal, and complexity analysis comments. Serves as a learning reference for DSA preparation and coding interviews.",
+    "technologies": ["C++", "DSA", "OOP"],
+    "category": "dsa",
+    "github": "https://github.com/navdeepsharma",
+    "live": "#",
+    "status": "completed",
+    "statusLabel": "Completed",
+    "year": "2023"
+  }
+]

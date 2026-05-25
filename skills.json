@@ -1,0 +1,28 @@
+{
+  "programming": [
+    { "name": "C", "level": 85, "icon": "🔵", "color": "#00B4D8" },
+    { "name": "C++", "level": 78, "icon": "🟣", "color": "#7B2FBE" },
+    { "name": "JavaScript", "level": 72, "icon": "🟡", "color": "#F7DC6F" },
+    { "name": "Python", "level": 60, "icon": "🐍", "color": "#3776AB" }
+  ],
+  "web": [
+    { "name": "HTML5", "level": 90, "icon": "🌐", "color": "#E34F26" },
+    { "name": "CSS3", "level": 85, "icon": "🎨", "color": "#1572B6" },
+    { "name": "JavaScript", "level": 72, "icon": "⚡", "color": "#F7DC6F" },
+    { "name": "Responsive Design", "level": 80, "icon": "📱", "color": "#00D4FF" }
+  ],
+  "tools": [
+    { "name": "Git", "level": 80, "icon": "🔀", "color": "#F05032" },
+    { "name": "GitHub", "level": 82, "icon": "🐙", "color": "#A78BFA" },
+    { "name": "VS Code", "level": 90, "icon": "💙", "color": "#007ACC" },
+    { "name": "Linux", "level": 70, "icon": "🐧", "color": "#FCC624" },
+    { "name": "GCC/G++", "level": 75, "icon": "⚙️", "color": "#6EE7B7" }
+  ],
+  "subjects": [
+    { "name": "DSA", "level": 75, "icon": "🌲", "color": "#34D399" },
+    { "name": "OS", "level": 78, "icon": "🖥️", "color": "#60A5FA" },
+    { "name": "DBMS", "level": 70, "icon": "🗄️", "color": "#F472B6" },
+    { "name": "Computer Networks", "level": 60, "icon": "🔗", "color": "#FBBF24" },
+    { "name": "OOP", "level": 80, "icon": "🧩", "color": "#A78BFA" }
+  ]
+}
